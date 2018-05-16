@@ -1,6 +1,6 @@
 # dietboxtest
 
-Calculadora de Percentual de Gordura 7 dobras desenvolvido em Vue.js 2.*
+# Calculadora de Percentual de Gordura 7 dobras desenvolvido em Vue.js 2.*
 
 O projeto foi uma super simples calculadora de percentual de gordura que armazena e lista as informações das avaliações já realizadas
 
