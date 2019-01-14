@@ -34,5 +34,5 @@ VueNumeric - eu não gostei do comportamento visual porque sempre deixa um valor
 
 VeeValidate - não aplica as classes nos campos como promete e tem um comportamento estranho após o submit que deixa 
 o formulário em estado inválido e não limpo como deveria, apesar de explicitamente estar sendo chamado o reset do mesmo 
-talvez posso ser algo relacionado a uma execução postergada de métodos porém mesmo tentando fazer a limpeza após concluido o retorno da promise que valida e insere não funcionou então deixei a validação somente no campo nome, excluí o atributo de validação dos outros inputs do formulário logo os spans de erro abaixo dos campos estão sendo inutilizados
+talvez posso ser algo relacionado a uma execução postergada de métodos porém mesmo tentando fazer a limpeza após concluido o retorno da promise que valida e insere não funcionou então deixei a validação somente no campo nome, excluí o atributo de validação dos outros inputs do formulário logo os spans de erro abaixo dos campos estão sendo inutilizados 
 
